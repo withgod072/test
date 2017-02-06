@@ -3,3 +3,4 @@ hi versiont
 tuto2 test2
 clone
 add merge test
+add tuto2 merge test

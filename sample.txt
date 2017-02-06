@@ -1,2 +1,4 @@
 idhi sample.tx
 hi versiont
+tuto2 test2
+clone
